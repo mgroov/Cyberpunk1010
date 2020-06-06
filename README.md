@@ -1,7 +1,6 @@
 # Cyberpunk1010
 Dungeon crawler inspired by cyberpunk 2077
-I used this to learn a large portion of the coding
-I know today
+
 DISCLAIMER 
 I DO NOT OWN THE ART ASSETS USED IN THE PROJECT 
 Links to sites found on
