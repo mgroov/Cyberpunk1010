@@ -1,6 +1,8 @@
 # Cyberpunk1010
 Dungeon crawler inspired by cyberpunk 2077
 
+To run download the code and jar and run: java -jar cyberpunk1010.jar
+
 DISCLAIMER 
 I DO NOT OWN THE ART ASSETS USED IN THE PROJECT 
 Links to sites found on
